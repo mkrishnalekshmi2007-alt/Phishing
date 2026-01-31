@@ -45,3 +45,7 @@ The **AI-Based Phishing Website Detection System** is a cyber security project t
 1. Install required libraries:
    ```bash
    pip install pandas numpy scikit-learn
+Input URL: https://www.youtube.com
+Output: ✅ Safe Website
+Input URL: http://secure-login-paypal.com
+Output: ⚠️ WARNING: Phishing Website Detected!
